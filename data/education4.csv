@@ -1,0 +1,593 @@
+Country,Country Code,Series,Series Code,2009 [YR2009],2010 [YR2010],2011 [YR2011],2012 [YR2012],2013 [YR2013],2014 [YR2014],2015 [YR2015],2016 [YR2016]
+Zimbabwe,ZWE,"Adjusted net enrolment rate, lower secondary, both sexes (%)",UIS.NERA.2,..,..,..,37.51676178,38.78192902,..,..,..
+Zimbabwe,ZWE,"Adjusted net enrolment rate, lower secondary, female (%)",UIS.NERA.2.F,..,..,..,41.65845108,42.87553024,..,..,..
+Zimbabwe,ZWE,"Adjusted net enrolment rate, lower secondary, male (%)",UIS.NERA.2.M,..,..,..,33.37911987,34.69152832,..,..,..
+Zimbabwe,ZWE,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,..,..,80.06565857,..,..,..,85.28513336,..
+Zimbabwe,ZWE,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,..,..,87.76480865,..,..,..,88.54821777,..
+Zimbabwe,ZWE,All staff compensation as % of total expenditure in tertiary public institutions (%),UIS.XSPENDP.56.FDPUB.FNS,76.86975098,..,..,..,..,..,..,..
+Zimbabwe,ZWE,All staff compensation as % of total expenditure in secondary public institutions (%),UIS.XSPENDP.23.FDPUB.FNS,..,..,..,..,..,..,..,..
+Zimbabwe,ZWE,All staff compensation as % of total expenditure in public institutions (%),UIS.XSPENDP.FDPUB.FNS,..,..,..,..,..,..,..,..
+Zimbabwe,ZWE,All staff compensation as % of total expenditure in primary public institutions (%),UIS.XSPENDP.1.FDPUB.FNS,..,..,..,..,..,..,..,..
+Zimbabwe,ZWE,All staff compensation as % of total expenditure in pre-primary public institutions (%),UIS.XSPENDP.0.FDPUB.FNS,..,..,..,..,..,..,..,..
+Zimbabwe,ZWE,"Barro-Lee: Average years of total schooling, age 20-24, total",BAR.SCHL.2024,..,8.71,..,..,..,..,..,..
+Zimbabwe,ZWE,"Barro-Lee: Average years of total schooling, age 25+, total",BAR.SCHL.25UP,..,7.25,..,..,..,..,..,..
+Zimbabwe,ZWE,"Barro-Lee: Average years of total schooling, age 25-29, total",BAR.SCHL.2529,..,8.54,..,..,..,..,..,..
+Zimbabwe,ZWE,"Barro-Lee: Average years of total schooling, age 30-34, total",BAR.SCHL.3034,..,9.04,..,..,..,..,..,..
+Zimbabwe,ZWE,"Barro-Lee: Average years of total schooling, age 35-39, total",BAR.SCHL.3539,..,8,..,..,..,..,..,..
+Zimbabwe,ZWE,"Barro-Lee: Average years of total schooling, age 40-44, total",BAR.SCHL.4044,..,7.82,..,..,..,..,..,..
+Zimbabwe,ZWE,"Barro-Lee: Average years of total schooling, age 45-49, total",BAR.SCHL.4549,..,6.08,..,..,..,..,..,..
+Zimbabwe,ZWE,"Barro-Lee: Average years of total schooling, age 50-54, total",BAR.SCHL.5054,..,6.08,..,..,..,..,..,..
+Zimbabwe,ZWE,"Barro-Lee: Average years of total schooling, age 55-59, total",BAR.SCHL.5559,..,4.21,..,..,..,..,..,..
+Zimbabwe,ZWE,"Barro-Lee: Average years of total schooling, age 60-64, total",BAR.SCHL.6064,..,4.21,..,..,..,..,..,..
+Zimbabwe,ZWE,"Barro-Lee: Average years of total schooling, age 65-69, total",BAR.SCHL.6569,..,3.23,..,..,..,..,..,..
+Zimbabwe,ZWE,"Barro-Lee: Average years of total schooling, age 70-74, total",BAR.SCHL.7074,..,3.32,..,..,..,..,..,..
+Zimbabwe,ZWE,"Barro-Lee: Average years of total schooling, age 75+, total",BAR.SCHL.75UP,..,4.23,..,..,..,..,..,..
+Zimbabwe,ZWE,Barro-Lee: Percentage of population age 15+ with no education,BAR.NOED.15UP.ZS,..,5.08,..,..,..,..,..,..
+Zimbabwe,ZWE,Barro-Lee: Percentage of population age 15+ with primary schooling. Completed Primary,BAR.PRM.CMPT.15UP.ZS,..,26.68,..,..,..,..,..,..
+Zimbabwe,ZWE,Barro-Lee: Percentage of population age 15+ with secondary schooling. Completed Secondary,BAR.SEC.CMPT.15UP.ZS,..,6.83,..,..,..,..,..,..
+Zimbabwe,ZWE,Barro-Lee: Percentage of population age 15+ with tertiary schooling. Completed Tertiary,BAR.TER.CMPT.15UP.ZS,..,0.38,..,..,..,..,..,..
+Zimbabwe,ZWE,EGRA: Correct Isolated Words Read Per Minute (Mean). English. 3rd Grade,LO.EGRA.CWPM.ENG.3GRD,..,..,..,..,..,..,..,..
+Zimbabwe,ZWE,EGRA: Correct Isolated Words Read Per Minute (Mean). English. 6th Grade,LO.EGRA.CWPM.ENG.6GRD,..,..,..,..,..,..,..,..
+Zimbabwe,ZWE,"Enrolment in early childhood education, public institutions, both sexes (number)",UIS.E.0.PU.T,..,..,..,20117,..,..,..,..
+Zimbabwe,ZWE,"Enrolment in Grade 1 of lower secondary general education, both sexes (number)",UIS.E.2.GPV.G1.T,..,..,..,237064,242214,..,..,..
+Zimbabwe,ZWE,"Enrolment in lower secondary education, both sexes (number)",UIS.E.2,..,..,..,455728,466939,..,..,..
+Zimbabwe,ZWE,"Enrolment in post-secondary non-tertiary education, both sexes (number)",UIS.E.4,..,..,..,..,..,..,..,..
+Zimbabwe,ZWE,"Enrolment in primary education, both sexes (number)",SE.PRM.ENRL,..,..,..,2666451,2663187,..,..,..
+Zimbabwe,ZWE,"Enrolment in tertiary education, all programmes, both sexes (number)",SE.TER.ENRL,..,94611,93285,94012,94115,..,..,..
+Zimbabwe,ZWE,TIMSS: Eighth grade students who did not reach the low international benchmark of science achievement (%),LO.TIMSS.SCI8.BL,..,..,..,..,..,..,..,..
+Zimbabwe,ZWE,TIMSS: Eighth grade students who did not reach the low international benchmark of mathematics achievement (%),LO.TIMSS.MAT8.BL,..,..,..,..,..,..,..,..
+Sub-Saharan Africa,SSF,"Adjusted net enrolment rate, lower secondary, both sexes (%)",UIS.NERA.2,..,..,..,..,..,..,..,..
+Sub-Saharan Africa,SSF,"Adjusted net enrolment rate, lower secondary, female (%)",UIS.NERA.2.F,..,..,..,..,..,..,..,..
+Sub-Saharan Africa,SSF,"Adjusted net enrolment rate, lower secondary, male (%)",UIS.NERA.2.M,..,..,..,..,..,..,..,..
+Sub-Saharan Africa,SSF,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,53.00997162,53.00997162,53.00997162,53.00997162,53.00997162,53.00997162,..,..
+Sub-Saharan Africa,SSF,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,69.22330475,69.22330475,69.22330475,69.22330475,69.22330475,69.22330475,..,..
+Sub-Saharan Africa,SSF,All staff compensation as % of total expenditure in tertiary public institutions (%),UIS.XSPENDP.56.FDPUB.FNS,..,..,..,..,..,..,..,..
+Sub-Saharan Africa,SSF,All staff compensation as % of total expenditure in secondary public institutions (%),UIS.XSPENDP.23.FDPUB.FNS,..,..,..,..,..,..,..,..
+Sub-Saharan Africa,SSF,All staff compensation as % of total expenditure in public institutions (%),UIS.XSPENDP.FDPUB.FNS,..,..,..,..,..,..,..,..
+Sub-Saharan Africa,SSF,All staff compensation as % of total expenditure in primary public institutions (%),UIS.XSPENDP.1.FDPUB.FNS,..,..,..,..,..,..,..,..
+Sub-Saharan Africa,SSF,All staff compensation as % of total expenditure in pre-primary public institutions (%),UIS.XSPENDP.0.FDPUB.FNS,..,..,..,..,..,..,..,..
+Sub-Saharan Africa,SSF,"Barro-Lee: Average years of total schooling, age 20-24, total",BAR.SCHL.2024,..,..,..,..,..,..,..,..
+Sub-Saharan Africa,SSF,"Barro-Lee: Average years of total schooling, age 25+, total",BAR.SCHL.25UP,..,..,..,..,..,..,..,..
+Sub-Saharan Africa,SSF,"Barro-Lee: Average years of total schooling, age 25-29, total",BAR.SCHL.2529,..,..,..,..,..,..,..,..
+Sub-Saharan Africa,SSF,"Barro-Lee: Average years of total schooling, age 30-34, total",BAR.SCHL.3034,..,..,..,..,..,..,..,..
+Sub-Saharan Africa,SSF,"Barro-Lee: Average years of total schooling, age 35-39, total",BAR.SCHL.3539,..,..,..,..,..,..,..,..
+Sub-Saharan Africa,SSF,"Barro-Lee: Average years of total schooling, age 40-44, total",BAR.SCHL.4044,..,..,..,..,..,..,..,..
+Sub-Saharan Africa,SSF,"Barro-Lee: Average years of total schooling, age 45-49, total",BAR.SCHL.4549,..,..,..,..,..,..,..,..
+Sub-Saharan Africa,SSF,"Barro-Lee: Average years of total schooling, age 50-54, total",BAR.SCHL.5054,..,..,..,..,..,..,..,..
+Sub-Saharan Africa,SSF,"Barro-Lee: Average years of total schooling, age 55-59, total",BAR.SCHL.5559,..,..,..,..,..,..,..,..
+Sub-Saharan Africa,SSF,"Barro-Lee: Average years of total schooling, age 60-64, total",BAR.SCHL.6064,..,..,..,..,..,..,..,..
+Sub-Saharan Africa,SSF,"Barro-Lee: Average years of total schooling, age 65-69, total",BAR.SCHL.6569,..,..,..,..,..,..,..,..
+Sub-Saharan Africa,SSF,"Barro-Lee: Average years of total schooling, age 70-74, total",BAR.SCHL.7074,..,..,..,..,..,..,..,..
+Sub-Saharan Africa,SSF,"Barro-Lee: Average years of total schooling, age 75+, total",BAR.SCHL.75UP,..,..,..,..,..,..,..,..
+Sub-Saharan Africa,SSF,Barro-Lee: Percentage of population age 15+ with no education,BAR.NOED.15UP.ZS,..,..,..,..,..,..,..,..
+Sub-Saharan Africa,SSF,Barro-Lee: Percentage of population age 15+ with primary schooling. Completed Primary,BAR.PRM.CMPT.15UP.ZS,..,..,..,..,..,..,..,..
+Sub-Saharan Africa,SSF,Barro-Lee: Percentage of population age 15+ with secondary schooling. Completed Secondary,BAR.SEC.CMPT.15UP.ZS,..,..,..,..,..,..,..,..
+Sub-Saharan Africa,SSF,Barro-Lee: Percentage of population age 15+ with tertiary schooling. Completed Tertiary,BAR.TER.CMPT.15UP.ZS,..,..,..,..,..,..,..,..
+Sub-Saharan Africa,SSF,EGRA: Correct Isolated Words Read Per Minute (Mean). English. 3rd Grade,LO.EGRA.CWPM.ENG.3GRD,..,..,..,..,..,..,..,..
+Sub-Saharan Africa,SSF,EGRA: Correct Isolated Words Read Per Minute (Mean). English. 6th Grade,LO.EGRA.CWPM.ENG.6GRD,..,..,..,..,..,..,..,..
+Sub-Saharan Africa,SSF,"Enrolment in early childhood education, public institutions, both sexes (number)",UIS.E.0.PU.T,..,..,..,..,..,..,..,..
+Sub-Saharan Africa,SSF,"Enrolment in Grade 1 of lower secondary general education, both sexes (number)",UIS.E.2.GPV.G1.T,..,..,..,..,..,..,..,..
+Sub-Saharan Africa,SSF,"Enrolment in lower secondary education, both sexes (number)",UIS.E.2,27778590,30035084,31661610,32956766,33843888,34979440,..,..
+Sub-Saharan Africa,SSF,"Enrolment in post-secondary non-tertiary education, both sexes (number)",UIS.E.4,929776.5,960662.625,1292777.125,1385068.25,1338692.625,..,..,..
+Sub-Saharan Africa,SSF,"Enrolment in primary education, both sexes (number)",SE.PRM.ENRL,136374272,139833696,144262928,149070544,153274288,158234432,..,..
+Sub-Saharan Africa,SSF,"Enrolment in tertiary education, all programmes, both sexes (number)",SE.TER.ENRL,5935846.5,6460740,6779114,7168385.5,7541842.5,7795920.5,..,..
+Sub-Saharan Africa,SSF,TIMSS: Eighth grade students who did not reach the low international benchmark of science achievement (%),LO.TIMSS.SCI8.BL,..,..,..,..,..,..,..,..
+Sub-Saharan Africa,SSF,TIMSS: Eighth grade students who did not reach the low international benchmark of mathematics achievement (%),LO.TIMSS.MAT8.BL,..,..,..,..,..,..,..,..
+South Africa,ZAF,"Adjusted net enrolment rate, lower secondary, both sexes (%)",UIS.NERA.2,..,..,..,..,..,..,..,..
+South Africa,ZAF,"Adjusted net enrolment rate, lower secondary, female (%)",UIS.NERA.2.F,..,..,..,..,..,..,..,..
+South Africa,ZAF,"Adjusted net enrolment rate, lower secondary, male (%)",UIS.NERA.2.M,..,..,..,..,..,..,..,..
+South Africa,ZAF,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,91.76815796,91.71398926,92.04788971,92.58625031,..,93.07305908,93.42893219,..
+South Africa,ZAF,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,94.12145996,94.14385223,94.24508667,94.96372223,..,95.28684998,95.83280945,..
+South Africa,ZAF,All staff compensation as % of total expenditure in tertiary public institutions (%),UIS.XSPENDP.56.FDPUB.FNS,..,..,..,..,..,60.70360184,..,..
+South Africa,ZAF,All staff compensation as % of total expenditure in secondary public institutions (%),UIS.XSPENDP.23.FDPUB.FNS,87.47360992,100,88.13658905,89.37236786,85.9837265,85.06286621,..,..
+South Africa,ZAF,All staff compensation as % of total expenditure in public institutions (%),UIS.XSPENDP.FDPUB.FNS,..,..,..,..,..,67.18717194,..,..
+South Africa,ZAF,All staff compensation as % of total expenditure in primary public institutions (%),UIS.XSPENDP.1.FDPUB.FNS,79.02509308,78.26846313,79.21463776,76.59005737,77.15908813,78.41105652,..,..
+South Africa,ZAF,All staff compensation as % of total expenditure in pre-primary public institutions (%),UIS.XSPENDP.0.FDPUB.FNS,42.20745087,40.55337143,59.43828964,49.83240128,45.15784073,51.09494019,..,..
+South Africa,ZAF,"Barro-Lee: Average years of total schooling, age 20-24, total",BAR.SCHL.2024,..,11.08,..,..,..,..,..,..
+South Africa,ZAF,"Barro-Lee: Average years of total schooling, age 25+, total",BAR.SCHL.25UP,..,9.43,..,..,..,..,..,..
+South Africa,ZAF,"Barro-Lee: Average years of total schooling, age 25-29, total",BAR.SCHL.2529,..,11.03,..,..,..,..,..,..
+South Africa,ZAF,"Barro-Lee: Average years of total schooling, age 30-34, total",BAR.SCHL.3034,..,10.78,..,..,..,..,..,..
+South Africa,ZAF,"Barro-Lee: Average years of total schooling, age 35-39, total",BAR.SCHL.3539,..,10.23,..,..,..,..,..,..
+South Africa,ZAF,"Barro-Lee: Average years of total schooling, age 40-44, total",BAR.SCHL.4044,..,10.23,..,..,..,..,..,..
+South Africa,ZAF,"Barro-Lee: Average years of total schooling, age 45-49, total",BAR.SCHL.4549,..,8.74,..,..,..,..,..,..
+South Africa,ZAF,"Barro-Lee: Average years of total schooling, age 50-54, total",BAR.SCHL.5054,..,8.74,..,..,..,..,..,..
+South Africa,ZAF,"Barro-Lee: Average years of total schooling, age 55-59, total",BAR.SCHL.5559,..,7.35,..,..,..,..,..,..
+South Africa,ZAF,"Barro-Lee: Average years of total schooling, age 60-64, total",BAR.SCHL.6064,..,7.36,..,..,..,..,..,..
+South Africa,ZAF,"Barro-Lee: Average years of total schooling, age 65-69, total",BAR.SCHL.6569,..,6.59,..,..,..,..,..,..
+South Africa,ZAF,"Barro-Lee: Average years of total schooling, age 70-74, total",BAR.SCHL.7074,..,6.59,..,..,..,..,..,..
+South Africa,ZAF,"Barro-Lee: Average years of total schooling, age 75+, total",BAR.SCHL.75UP,..,5.64,..,..,..,..,..,..
+South Africa,ZAF,Barro-Lee: Percentage of population age 15+ with no education,BAR.NOED.15UP.ZS,..,5.65,..,..,..,..,..,..
+South Africa,ZAF,Barro-Lee: Percentage of population age 15+ with primary schooling. Completed Primary,BAR.PRM.CMPT.15UP.ZS,..,6.22,..,..,..,..,..,..
+South Africa,ZAF,Barro-Lee: Percentage of population age 15+ with secondary schooling. Completed Secondary,BAR.SEC.CMPT.15UP.ZS,..,53.9,..,..,..,..,..,..
+South Africa,ZAF,Barro-Lee: Percentage of population age 15+ with tertiary schooling. Completed Tertiary,BAR.TER.CMPT.15UP.ZS,..,0.32,..,..,..,..,..,..
+South Africa,ZAF,EGRA: Correct Isolated Words Read Per Minute (Mean). English. 3rd Grade,LO.EGRA.CWPM.ENG.3GRD,..,..,..,..,..,..,..,..
+South Africa,ZAF,EGRA: Correct Isolated Words Read Per Minute (Mean). English. 6th Grade,LO.EGRA.CWPM.ENG.6GRD,..,..,..,..,..,..,..,..
+South Africa,ZAF,"Enrolment in early childhood education, public institutions, both sexes (number)",UIS.E.0.PU.T,..,..,..,942552,772210,..,..,..
+South Africa,ZAF,"Enrolment in Grade 1 of lower secondary general education, both sexes (number)",UIS.E.2.GPV.G1.T,991093,1001180,1008110,971509,942345,935624,..,..
+South Africa,ZAF,"Enrolment in lower secondary education, both sexes (number)",UIS.E.2,1917624,2010507,2058014,2067622,2015405,1984447,..,..
+South Africa,ZAF,"Enrolment in post-secondary non-tertiary education, both sexes (number)",UIS.E.4,151421,146060,160314,214436,271882,273377,..,..
+South Africa,ZAF,"Enrolment in primary education, both sexes (number)",SE.PRM.ENRL,7128500,7024368,6957432,7004482,7063849,7195183,..,..
+South Africa,ZAF,"Enrolment in tertiary education, all programmes, both sexes (number)",SE.TER.ENRL,..,..,..,1005721,1035594,..,..,..
+South Africa,ZAF,TIMSS: Eighth grade students who did not reach the low international benchmark of science achievement (%),LO.TIMSS.SCI8.BL,..,..,..,..,..,..,..,..
+South Africa,ZAF,TIMSS: Eighth grade students who did not reach the low international benchmark of mathematics achievement (%),LO.TIMSS.MAT8.BL,..,..,..,..,..,..,..,..
+Botswana,BWA,"Adjusted net enrolment rate, lower secondary, both sexes (%)",UIS.NERA.2,..,..,..,..,52.20484924,..,..,..
+Botswana,BWA,"Adjusted net enrolment rate, lower secondary, female (%)",UIS.NERA.2.F,..,..,..,..,57.79924011,..,..,..
+Botswana,BWA,"Adjusted net enrolment rate, lower secondary, male (%)",UIS.NERA.2.M,..,..,..,..,46.69467163,..,..,..
+Botswana,BWA,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,..,..,..,..,..,88.66818237,89.21347046,..
+Botswana,BWA,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,..,..,..,..,..,86.73638153,87.22460938,..
+Botswana,BWA,All staff compensation as % of total expenditure in tertiary public institutions (%),UIS.XSPENDP.56.FDPUB.FNS,..,..,..,..,..,..,..,..
+Botswana,BWA,All staff compensation as % of total expenditure in secondary public institutions (%),UIS.XSPENDP.23.FDPUB.FNS,64.49433899,..,..,..,..,..,..,..
+Botswana,BWA,All staff compensation as % of total expenditure in public institutions (%),UIS.XSPENDP.FDPUB.FNS,..,..,..,..,..,..,..,..
+Botswana,BWA,All staff compensation as % of total expenditure in primary public institutions (%),UIS.XSPENDP.1.FDPUB.FNS,92.61060333,..,..,..,..,..,..,..
+Botswana,BWA,All staff compensation as % of total expenditure in pre-primary public institutions (%),UIS.XSPENDP.0.FDPUB.FNS,..,..,..,..,..,..,..,..
+Botswana,BWA,"Barro-Lee: Average years of total schooling, age 20-24, total",BAR.SCHL.2024,..,10.72,..,..,..,..,..,..
+Botswana,BWA,"Barro-Lee: Average years of total schooling, age 25+, total",BAR.SCHL.25UP,..,8.87,..,..,..,..,..,..
+Botswana,BWA,"Barro-Lee: Average years of total schooling, age 25-29, total",BAR.SCHL.2529,..,10.87,..,..,..,..,..,..
+Botswana,BWA,"Barro-Lee: Average years of total schooling, age 30-34, total",BAR.SCHL.3034,..,10.98,..,..,..,..,..,..
+Botswana,BWA,"Barro-Lee: Average years of total schooling, age 35-39, total",BAR.SCHL.3539,..,10.63,..,..,..,..,..,..
+Botswana,BWA,"Barro-Lee: Average years of total schooling, age 40-44, total",BAR.SCHL.4044,..,9.35,..,..,..,..,..,..
+Botswana,BWA,"Barro-Lee: Average years of total schooling, age 45-49, total",BAR.SCHL.4549,..,7.73,..,..,..,..,..,..
+Botswana,BWA,"Barro-Lee: Average years of total schooling, age 50-54, total",BAR.SCHL.5054,..,7.65,..,..,..,..,..,..
+Botswana,BWA,"Barro-Lee: Average years of total schooling, age 55-59, total",BAR.SCHL.5559,..,5.97,..,..,..,..,..,..
+Botswana,BWA,"Barro-Lee: Average years of total schooling, age 60-64, total",BAR.SCHL.6064,..,5.97,..,..,..,..,..,..
+Botswana,BWA,"Barro-Lee: Average years of total schooling, age 65-69, total",BAR.SCHL.6569,..,4.06,..,..,..,..,..,..
+Botswana,BWA,"Barro-Lee: Average years of total schooling, age 70-74, total",BAR.SCHL.7074,..,4.24,..,..,..,..,..,..
+Botswana,BWA,"Barro-Lee: Average years of total schooling, age 75+, total",BAR.SCHL.75UP,..,3.06,..,..,..,..,..,..
+Botswana,BWA,Barro-Lee: Percentage of population age 15+ with no education,BAR.NOED.15UP.ZS,..,9.83,..,..,..,..,..,..
+Botswana,BWA,Barro-Lee: Percentage of population age 15+ with primary schooling. Completed Primary,BAR.PRM.CMPT.15UP.ZS,..,4.76,..,..,..,..,..,..
+Botswana,BWA,Barro-Lee: Percentage of population age 15+ with secondary schooling. Completed Secondary,BAR.SEC.CMPT.15UP.ZS,..,29.03,..,..,..,..,..,..
+Botswana,BWA,Barro-Lee: Percentage of population age 15+ with tertiary schooling. Completed Tertiary,BAR.TER.CMPT.15UP.ZS,..,2.02,..,..,..,..,..,..
+Botswana,BWA,EGRA: Correct Isolated Words Read Per Minute (Mean). English. 3rd Grade,LO.EGRA.CWPM.ENG.3GRD,..,..,..,..,..,..,..,..
+Botswana,BWA,EGRA: Correct Isolated Words Read Per Minute (Mean). English. 6th Grade,LO.EGRA.CWPM.ENG.6GRD,..,..,..,..,..,..,..,..
+Botswana,BWA,"Enrolment in early childhood education, public institutions, both sexes (number)",UIS.E.0.PU.T,..,..,..,664,5628,..,..,..
+Botswana,BWA,"Enrolment in Grade 1 of lower secondary general education, both sexes (number)",UIS.E.2.GPV.G1.T,40519,..,..,41514,42251,..,..,..
+Botswana,BWA,"Enrolment in lower secondary education, both sexes (number)",UIS.E.2,119933,..,..,120546,120598,..,..,..
+Botswana,BWA,"Enrolment in post-secondary non-tertiary education, both sexes (number)",UIS.E.4,..,..,..,..,..,..,..,..
+Botswana,BWA,"Enrolment in primary education, both sexes (number)",SE.PRM.ENRL,330775,..,..,335830,340065,..,..,..
+Botswana,BWA,"Enrolment in tertiary education, all programmes, both sexes (number)",SE.TER.ENRL,47889,42366,37859,39894,55128,60583,..,..
+Botswana,BWA,TIMSS: Eighth grade students who did not reach the low international benchmark of science achievement (%),LO.TIMSS.SCI8.BL,..,..,..,..,..,..,..,..
+Botswana,BWA,TIMSS: Eighth grade students who did not reach the low international benchmark of mathematics achievement (%),LO.TIMSS.MAT8.BL,..,..,..,..,..,..,..,..
+Brazil,BRA,"Adjusted net enrolment rate, lower secondary, both sexes (%)",UIS.NERA.2,76.69689941,..,74.37345123,73.73362732,82.61808777,..,..,..
+Brazil,BRA,"Adjusted net enrolment rate, lower secondary, female (%)",UIS.NERA.2.F,80.70005798,..,77.78972626,76.02287292,86.33986664,..,..,..
+Brazil,BRA,"Adjusted net enrolment rate, lower secondary, male (%)",UIS.NERA.2.M,72.89456177,..,71.07662201,71.47786713,79.09707642,..,..,..
+Brazil,BRA,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,90.41121674,90.68170166,91.63314819,91.62490082,91.76496124,..,92.86592102,..
+Brazil,BRA,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,90.17484283,90.05618286,91.16898346,91.02567291,91.17796326,..,92.29193878,..
+Brazil,BRA,All staff compensation as % of total expenditure in tertiary public institutions (%),UIS.XSPENDP.56.FDPUB.FNS,69.38516998,70.86589813,77.15776062,73.48258972,72.60727692,..,..,..
+Brazil,BRA,All staff compensation as % of total expenditure in secondary public institutions (%),UIS.XSPENDP.23.FDPUB.FNS,72.14176178,70.80947876,75.19033051,67.98268127,70.63368225,..,..,..
+Brazil,BRA,All staff compensation as % of total expenditure in public institutions (%),UIS.XSPENDP.FDPUB.FNS,70.28111267,68.47107697,73.1655426,68.31764221,69.71633911,..,..,..
+Brazil,BRA,All staff compensation as % of total expenditure in primary public institutions (%),UIS.XSPENDP.1.FDPUB.FNS,69.25097656,64.84004974,67.88980865,66.57702637,68.68708038,..,..,..
+Brazil,BRA,All staff compensation as % of total expenditure in pre-primary public institutions (%),UIS.XSPENDP.0.FDPUB.FNS,65.18321228,64.93125916,73.44885254,67.58966064,..,..,..,..
+Brazil,BRA,"Barro-Lee: Average years of total schooling, age 20-24, total",BAR.SCHL.2024,..,9.94,..,..,..,..,..,..
+Brazil,BRA,"Barro-Lee: Average years of total schooling, age 25+, total",BAR.SCHL.25UP,..,7.66,..,..,..,..,..,..
+Brazil,BRA,"Barro-Lee: Average years of total schooling, age 25-29, total",BAR.SCHL.2529,..,9.81,..,..,..,..,..,..
+Brazil,BRA,"Barro-Lee: Average years of total schooling, age 30-34, total",BAR.SCHL.3034,..,9.37,..,..,..,..,..,..
+Brazil,BRA,"Barro-Lee: Average years of total schooling, age 35-39, total",BAR.SCHL.3539,..,8.81,..,..,..,..,..,..
+Brazil,BRA,"Barro-Lee: Average years of total schooling, age 40-44, total",BAR.SCHL.4044,..,8.65,..,..,..,..,..,..
+Brazil,BRA,"Barro-Lee: Average years of total schooling, age 45-49, total",BAR.SCHL.4549,..,6.63,..,..,..,..,..,..
+Brazil,BRA,"Barro-Lee: Average years of total schooling, age 50-54, total",BAR.SCHL.5054,..,6.48,..,..,..,..,..,..
+Brazil,BRA,"Barro-Lee: Average years of total schooling, age 55-59, total",BAR.SCHL.5559,..,5.92,..,..,..,..,..,..
+Brazil,BRA,"Barro-Lee: Average years of total schooling, age 60-64, total",BAR.SCHL.6064,..,5.26,..,..,..,..,..,..
+Brazil,BRA,"Barro-Lee: Average years of total schooling, age 65-69, total",BAR.SCHL.6569,..,4.15,..,..,..,..,..,..
+Brazil,BRA,"Barro-Lee: Average years of total schooling, age 70-74, total",BAR.SCHL.7074,..,3.96,..,..,..,..,..,..
+Brazil,BRA,"Barro-Lee: Average years of total schooling, age 75+, total",BAR.SCHL.75UP,..,4.01,..,..,..,..,..,..
+Brazil,BRA,Barro-Lee: Percentage of population age 15+ with no education,BAR.NOED.15UP.ZS,..,9.6,..,..,..,..,..,..
+Brazil,BRA,Barro-Lee: Percentage of population age 15+ with primary schooling. Completed Primary,BAR.PRM.CMPT.15UP.ZS,..,25.63,..,..,..,..,..,..
+Brazil,BRA,Barro-Lee: Percentage of population age 15+ with secondary schooling. Completed Secondary,BAR.SEC.CMPT.15UP.ZS,..,26.37,..,..,..,..,..,..
+Brazil,BRA,Barro-Lee: Percentage of population age 15+ with tertiary schooling. Completed Tertiary,BAR.TER.CMPT.15UP.ZS,..,5.63,..,..,..,..,..,..
+Brazil,BRA,EGRA: Correct Isolated Words Read Per Minute (Mean). English. 3rd Grade,LO.EGRA.CWPM.ENG.3GRD,..,..,..,..,..,..,..,..
+Brazil,BRA,EGRA: Correct Isolated Words Read Per Minute (Mean). English. 6th Grade,LO.EGRA.CWPM.ENG.6GRD,..,..,..,..,..,..,..,..
+Brazil,BRA,"Enrolment in early childhood education, public institutions, both sexes (number)",UIS.E.0.PU.T,..,..,..,..,5377144,..,..,..
+Brazil,BRA,"Enrolment in Grade 1 of lower secondary general education, both sexes (number)",UIS.E.2.GPV.G1.T,4199197,4151834,3912649,3771591,3650445,..,..,..
+Brazil,BRA,"Enrolment in lower secondary education, both sexes (number)",UIS.E.2,14416286,14254717,14003596,13691738,14931799,..,..,..
+Brazil,BRA,"Enrolment in post-secondary non-tertiary education, both sexes (number)",UIS.E.4,..,..,..,..,792796,..,..,..
+Brazil,BRA,"Enrolment in primary education, both sexes (number)",SE.PRM.ENRL,17451886,16893490,16486880,16134889,16760693,..,..,..
+Brazil,BRA,"Enrolment in tertiary education, all programmes, both sexes (number)",SE.TER.ENRL,6115138,6552707,6929324,7241405,7541112,..,..,..
+Brazil,BRA,TIMSS: Eighth grade students who did not reach the low international benchmark of science achievement (%),LO.TIMSS.SCI8.BL,..,..,..,..,..,..,..,..
+Brazil,BRA,TIMSS: Eighth grade students who did not reach the low international benchmark of mathematics achievement (%),LO.TIMSS.MAT8.BL,..,..,..,..,..,..,..,..
+Canada,CAN,"Adjusted net enrolment rate, lower secondary, both sexes (%)",UIS.NERA.2,..,..,..,..,..,..,..,..
+Canada,CAN,"Adjusted net enrolment rate, lower secondary, female (%)",UIS.NERA.2.F,..,..,..,..,..,..,..,..
+Canada,CAN,"Adjusted net enrolment rate, lower secondary, male (%)",UIS.NERA.2.M,..,..,..,..,..,..,..,..
+Canada,CAN,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,..,..,..,..,..,..,..,..
+Canada,CAN,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,..,..,..,..,..,..,..,..
+Canada,CAN,All staff compensation as % of total expenditure in tertiary public institutions (%),UIS.XSPENDP.56.FDPUB.FNS,55.86523819,57.20238113,55.7675209,59.24211884,..,..,..,..
+Canada,CAN,All staff compensation as % of total expenditure in secondary public institutions (%),UIS.XSPENDP.23.FDPUB.FNS,..,..,..,73.68997955,..,..,..,..
+Canada,CAN,All staff compensation as % of total expenditure in public institutions (%),UIS.XSPENDP.FDPUB.FNS,65.48918915,65.83621216,65.45578003,..,..,..,..,..
+Canada,CAN,All staff compensation as % of total expenditure in primary public institutions (%),UIS.XSPENDP.1.FDPUB.FNS,..,..,..,73.68997955,..,..,..,..
+Canada,CAN,All staff compensation as % of total expenditure in pre-primary public institutions (%),UIS.XSPENDP.0.FDPUB.FNS,..,..,..,..,..,..,..,..
+Canada,CAN,"Barro-Lee: Average years of total schooling, age 20-24, total",BAR.SCHL.2024,..,12.42,..,..,..,..,..,..
+Canada,CAN,"Barro-Lee: Average years of total schooling, age 25+, total",BAR.SCHL.25UP,..,12.56,..,..,..,..,..,..
+Canada,CAN,"Barro-Lee: Average years of total schooling, age 25-29, total",BAR.SCHL.2529,..,13.48,..,..,..,..,..,..
+Canada,CAN,"Barro-Lee: Average years of total schooling, age 30-34, total",BAR.SCHL.3034,..,13.57,..,..,..,..,..,..
+Canada,CAN,"Barro-Lee: Average years of total schooling, age 35-39, total",BAR.SCHL.3539,..,13.45,..,..,..,..,..,..
+Canada,CAN,"Barro-Lee: Average years of total schooling, age 40-44, total",BAR.SCHL.4044,..,13.45,..,..,..,..,..,..
+Canada,CAN,"Barro-Lee: Average years of total schooling, age 45-49, total",BAR.SCHL.4549,..,12.9,..,..,..,..,..,..
+Canada,CAN,"Barro-Lee: Average years of total schooling, age 50-54, total",BAR.SCHL.5054,..,12.9,..,..,..,..,..,..
+Canada,CAN,"Barro-Lee: Average years of total schooling, age 55-59, total",BAR.SCHL.5559,..,12.43,..,..,..,..,..,..
+Canada,CAN,"Barro-Lee: Average years of total schooling, age 60-64, total",BAR.SCHL.6064,..,12.43,..,..,..,..,..,..
+Canada,CAN,"Barro-Lee: Average years of total schooling, age 65-69, total",BAR.SCHL.6569,..,11.34,..,..,..,..,..,..
+Canada,CAN,"Barro-Lee: Average years of total schooling, age 70-74, total",BAR.SCHL.7074,..,11.08,..,..,..,..,..,..
+Canada,CAN,"Barro-Lee: Average years of total schooling, age 75+, total",BAR.SCHL.75UP,..,9.75,..,..,..,..,..,..
+Canada,CAN,Barro-Lee: Percentage of population age 15+ with no education,BAR.NOED.15UP.ZS,..,0.67,..,..,..,..,..,..
+Canada,CAN,Barro-Lee: Percentage of population age 15+ with primary schooling. Completed Primary,BAR.PRM.CMPT.15UP.ZS,..,2.24,..,..,..,..,..,..
+Canada,CAN,Barro-Lee: Percentage of population age 15+ with secondary schooling. Completed Secondary,BAR.SEC.CMPT.15UP.ZS,..,31.79,..,..,..,..,..,..
+Canada,CAN,Barro-Lee: Percentage of population age 15+ with tertiary schooling. Completed Tertiary,BAR.TER.CMPT.15UP.ZS,..,22.67,..,..,..,..,..,..
+Canada,CAN,EGRA: Correct Isolated Words Read Per Minute (Mean). English. 3rd Grade,LO.EGRA.CWPM.ENG.3GRD,..,..,..,..,..,..,..,..
+Canada,CAN,EGRA: Correct Isolated Words Read Per Minute (Mean). English. 6th Grade,LO.EGRA.CWPM.ENG.6GRD,..,..,..,..,..,..,..,..
+Canada,CAN,"Enrolment in early childhood education, public institutions, both sexes (number)",UIS.E.0.PU.T,..,..,..,..,..,..,..,..
+Canada,CAN,"Enrolment in Grade 1 of lower secondary general education, both sexes (number)",UIS.E.2.GPV.G1.T,..,..,..,..,..,..,..,..
+Canada,CAN,"Enrolment in lower secondary education, both sexes (number)",UIS.E.2,828947,799170,777694,1181334,1166114,..,..,..
+Canada,CAN,"Enrolment in post-secondary non-tertiary education, both sexes (number)",UIS.E.4,..,..,..,..,..,..,..,..
+Canada,CAN,"Enrolment in primary education, both sexes (number)",SE.PRM.ENRL,2193237,2168022,2153778,2182843,2206136,..,..,..
+Canada,CAN,"Enrolment in tertiary education, all programmes, both sexes (number)",SE.TER.ENRL,..,..,..,..,..,..,..,..
+Canada,CAN,TIMSS: Eighth grade students who did not reach the low international benchmark of science achievement (%),LO.TIMSS.SCI8.BL,..,..,..,..,..,..,1,..
+Canada,CAN,TIMSS: Eighth grade students who did not reach the low international benchmark of mathematics achievement (%),LO.TIMSS.MAT8.BL,..,..,..,..,..,..,3,..
+Europe & Central Asia,ECS,"Adjusted net enrolment rate, lower secondary, both sexes (%)",UIS.NERA.2,..,..,..,..,..,..,..,..
+Europe & Central Asia,ECS,"Adjusted net enrolment rate, lower secondary, female (%)",UIS.NERA.2.F,..,..,..,..,..,..,..,..
+Europe & Central Asia,ECS,"Adjusted net enrolment rate, lower secondary, male (%)",UIS.NERA.2.M,..,..,..,..,..,..,..,..
+Europe & Central Asia,ECS,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,98.61645508,98.61645508,98.61645508,98.61645508,98.61645508,98.61645508,..,..
+Europe & Central Asia,ECS,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,99.39486694,99.39486694,99.39486694,99.39486694,99.39486694,99.39486694,..,..
+Europe & Central Asia,ECS,All staff compensation as % of total expenditure in tertiary public institutions (%),UIS.XSPENDP.56.FDPUB.FNS,..,..,..,..,..,..,..,..
+Europe & Central Asia,ECS,All staff compensation as % of total expenditure in secondary public institutions (%),UIS.XSPENDP.23.FDPUB.FNS,..,..,..,..,..,..,..,..
+Europe & Central Asia,ECS,All staff compensation as % of total expenditure in public institutions (%),UIS.XSPENDP.FDPUB.FNS,..,..,..,..,..,..,..,..
+Europe & Central Asia,ECS,All staff compensation as % of total expenditure in primary public institutions (%),UIS.XSPENDP.1.FDPUB.FNS,..,..,..,..,..,..,..,..
+Europe & Central Asia,ECS,All staff compensation as % of total expenditure in pre-primary public institutions (%),UIS.XSPENDP.0.FDPUB.FNS,..,..,..,..,..,..,..,..
+Europe & Central Asia,ECS,"Barro-Lee: Average years of total schooling, age 20-24, total",BAR.SCHL.2024,..,..,..,..,..,..,..,..
+Europe & Central Asia,ECS,"Barro-Lee: Average years of total schooling, age 25+, total",BAR.SCHL.25UP,..,..,..,..,..,..,..,..
+Europe & Central Asia,ECS,"Barro-Lee: Average years of total schooling, age 25-29, total",BAR.SCHL.2529,..,..,..,..,..,..,..,..
+Europe & Central Asia,ECS,"Barro-Lee: Average years of total schooling, age 30-34, total",BAR.SCHL.3034,..,..,..,..,..,..,..,..
+Europe & Central Asia,ECS,"Barro-Lee: Average years of total schooling, age 35-39, total",BAR.SCHL.3539,..,..,..,..,..,..,..,..
+Europe & Central Asia,ECS,"Barro-Lee: Average years of total schooling, age 40-44, total",BAR.SCHL.4044,..,..,..,..,..,..,..,..
+Europe & Central Asia,ECS,"Barro-Lee: Average years of total schooling, age 45-49, total",BAR.SCHL.4549,..,..,..,..,..,..,..,..
+Europe & Central Asia,ECS,"Barro-Lee: Average years of total schooling, age 50-54, total",BAR.SCHL.5054,..,..,..,..,..,..,..,..
+Europe & Central Asia,ECS,"Barro-Lee: Average years of total schooling, age 55-59, total",BAR.SCHL.5559,..,..,..,..,..,..,..,..
+Europe & Central Asia,ECS,"Barro-Lee: Average years of total schooling, age 60-64, total",BAR.SCHL.6064,..,..,..,..,..,..,..,..
+Europe & Central Asia,ECS,"Barro-Lee: Average years of total schooling, age 65-69, total",BAR.SCHL.6569,..,..,..,..,..,..,..,..
+Europe & Central Asia,ECS,"Barro-Lee: Average years of total schooling, age 70-74, total",BAR.SCHL.7074,..,..,..,..,..,..,..,..
+Europe & Central Asia,ECS,"Barro-Lee: Average years of total schooling, age 75+, total",BAR.SCHL.75UP,..,..,..,..,..,..,..,..
+Europe & Central Asia,ECS,Barro-Lee: Percentage of population age 15+ with no education,BAR.NOED.15UP.ZS,..,..,..,..,..,..,..,..
+Europe & Central Asia,ECS,Barro-Lee: Percentage of population age 15+ with primary schooling. Completed Primary,BAR.PRM.CMPT.15UP.ZS,..,..,..,..,..,..,..,..
+Europe & Central Asia,ECS,Barro-Lee: Percentage of population age 15+ with secondary schooling. Completed Secondary,BAR.SEC.CMPT.15UP.ZS,..,..,..,..,..,..,..,..
+Europe & Central Asia,ECS,Barro-Lee: Percentage of population age 15+ with tertiary schooling. Completed Tertiary,BAR.TER.CMPT.15UP.ZS,..,..,..,..,..,..,..,..
+Europe & Central Asia,ECS,EGRA: Correct Isolated Words Read Per Minute (Mean). English. 3rd Grade,LO.EGRA.CWPM.ENG.3GRD,..,..,..,..,..,..,..,..
+Europe & Central Asia,ECS,EGRA: Correct Isolated Words Read Per Minute (Mean). English. 6th Grade,LO.EGRA.CWPM.ENG.6GRD,..,..,..,..,..,..,..,..
+Europe & Central Asia,ECS,"Enrolment in early childhood education, public institutions, both sexes (number)",UIS.E.0.PU.T,..,..,..,..,..,..,..,..
+Europe & Central Asia,ECS,"Enrolment in Grade 1 of lower secondary general education, both sexes (number)",UIS.E.2.GPV.G1.T,..,..,..,..,..,..,..,..
+Europe & Central Asia,ECS,"Enrolment in lower secondary education, both sexes (number)",UIS.E.2,43536272,43064160,42213192,41475136,42806652,42618084,..,..
+Europe & Central Asia,ECS,"Enrolment in post-secondary non-tertiary education, both sexes (number)",UIS.E.4,1941720.25,1988691.625,1993041.875,1952745.25,2132488.75,2033528.5,..,..
+Europe & Central Asia,ECS,"Enrolment in primary education, both sexes (number)",SE.PRM.ENRL,48590368,48544256,48685516,48814932,48872400,49350704,..,..
+Europe & Central Asia,ECS,"Enrolment in tertiary education, all programmes, both sexes (number)",SE.TER.ENRL,38756064,39231380,39164832,38685980,38299848,37693412,..,..
+Europe & Central Asia,ECS,TIMSS: Eighth grade students who did not reach the low international benchmark of science achievement (%),LO.TIMSS.SCI8.BL,..,..,..,..,..,..,..,..
+Europe & Central Asia,ECS,TIMSS: Eighth grade students who did not reach the low international benchmark of mathematics achievement (%),LO.TIMSS.MAT8.BL,..,..,..,..,..,..,..,..
+Germany,DEU,"Adjusted net enrolment rate, lower secondary, both sexes (%)",UIS.NERA.2,..,..,..,..,..,..,..,..
+Germany,DEU,"Adjusted net enrolment rate, lower secondary, female (%)",UIS.NERA.2.F,..,..,..,..,..,..,..,..
+Germany,DEU,"Adjusted net enrolment rate, lower secondary, male (%)",UIS.NERA.2.M,..,..,..,..,..,..,..,..
+Germany,DEU,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,..,..,..,..,..,..,..,..
+Germany,DEU,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,..,..,..,..,..,..,..,..
+Germany,DEU,All staff compensation as % of total expenditure in tertiary public institutions (%),UIS.XSPENDP.56.FDPUB.FNS,59.08195114,59.62628174,58.97161102,59.99927902,..,..,..,..
+Germany,DEU,All staff compensation as % of total expenditure in secondary public institutions (%),UIS.XSPENDP.23.FDPUB.FNS,77.20874023,76.15811157,77.28263855,79.65460205,..,..,..,..
+Germany,DEU,All staff compensation as % of total expenditure in public institutions (%),UIS.XSPENDP.FDPUB.FNS,70.84221649,70.56989288,70.89324951,72.75183868,..,..,..,..
+Germany,DEU,All staff compensation as % of total expenditure in primary public institutions (%),UIS.XSPENDP.1.FDPUB.FNS,76.18798828,74.50171661,74.8727417,77.25997925,..,..,..,..
+Germany,DEU,All staff compensation as % of total expenditure in pre-primary public institutions (%),UIS.XSPENDP.0.FDPUB.FNS,58.88663864,67.09677887,69.02628326,68.53318024,..,..,..,..
+Germany,DEU,"Barro-Lee: Average years of total schooling, age 20-24, total",BAR.SCHL.2024,..,12.17,..,..,..,..,..,..
+Germany,DEU,"Barro-Lee: Average years of total schooling, age 25+, total",BAR.SCHL.25UP,..,12.69,..,..,..,..,..,..
+Germany,DEU,"Barro-Lee: Average years of total schooling, age 25-29, total",BAR.SCHL.2529,..,13.09,..,..,..,..,..,..
+Germany,DEU,"Barro-Lee: Average years of total schooling, age 30-34, total",BAR.SCHL.3034,..,13.3,..,..,..,..,..,..
+Germany,DEU,"Barro-Lee: Average years of total schooling, age 35-39, total",BAR.SCHL.3539,..,13.25,..,..,..,..,..,..
+Germany,DEU,"Barro-Lee: Average years of total schooling, age 40-44, total",BAR.SCHL.4044,..,13.25,..,..,..,..,..,..
+Germany,DEU,"Barro-Lee: Average years of total schooling, age 45-49, total",BAR.SCHL.4549,..,13.21,..,..,..,..,..,..
+Germany,DEU,"Barro-Lee: Average years of total schooling, age 50-54, total",BAR.SCHL.5054,..,13.2,..,..,..,..,..,..
+Germany,DEU,"Barro-Lee: Average years of total schooling, age 55-59, total",BAR.SCHL.5559,..,13.04,..,..,..,..,..,..
+Germany,DEU,"Barro-Lee: Average years of total schooling, age 60-64, total",BAR.SCHL.6064,..,12.2,..,..,..,..,..,..
+Germany,DEU,"Barro-Lee: Average years of total schooling, age 65-69, total",BAR.SCHL.6569,..,11.93,..,..,..,..,..,..
+Germany,DEU,"Barro-Lee: Average years of total schooling, age 70-74, total",BAR.SCHL.7074,..,11.92,..,..,..,..,..,..
+Germany,DEU,"Barro-Lee: Average years of total schooling, age 75+, total",BAR.SCHL.75UP,..,11.4,..,..,..,..,..,..
+Germany,DEU,Barro-Lee: Percentage of population age 15+ with no education,BAR.NOED.15UP.ZS,..,1.8,..,..,..,..,..,..
+Germany,DEU,Barro-Lee: Percentage of population age 15+ with primary schooling. Completed Primary,BAR.PRM.CMPT.15UP.ZS,..,2.92,..,..,..,..,..,..
+Germany,DEU,Barro-Lee: Percentage of population age 15+ with secondary schooling. Completed Secondary,BAR.SEC.CMPT.15UP.ZS,..,54.75,..,..,..,..,..,..
+Germany,DEU,Barro-Lee: Percentage of population age 15+ with tertiary schooling. Completed Tertiary,BAR.TER.CMPT.15UP.ZS,..,13.14,..,..,..,..,..,..
+Germany,DEU,EGRA: Correct Isolated Words Read Per Minute (Mean). English. 3rd Grade,LO.EGRA.CWPM.ENG.3GRD,..,..,..,..,..,..,..,..
+Germany,DEU,EGRA: Correct Isolated Words Read Per Minute (Mean). English. 6th Grade,LO.EGRA.CWPM.ENG.6GRD,..,..,..,..,..,..,..,..
+Germany,DEU,"Enrolment in early childhood education, public institutions, both sexes (number)",UIS.E.0.PU.T,849665,830243,823357,822784,947378,984054,..,..
+Germany,DEU,"Enrolment in Grade 1 of lower secondary general education, both sexes (number)",UIS.E.2.GPV.G1.T,..,885466,857211,828410,790724.1875,778779.3125,..,..
+Germany,DEU,"Enrolment in lower secondary education, both sexes (number)",UIS.E.2,4995520,4917106,4802512,4747459,4713705,4621120,..,..
+Germany,DEU,"Enrolment in post-secondary non-tertiary education, both sexes (number)",UIS.E.4,..,..,..,..,828666.5625,769169.5,..,..
+Germany,DEU,"Enrolment in primary education, both sexes (number)",SE.PRM.ENRL,3150822,3067521,2989678,2936751,2890468,2862690,..,..
+Germany,DEU,"Enrolment in tertiary education, all programmes, both sexes (number)",SE.TER.ENRL,..,..,..,..,2780012.75,2912203.5,..,..
+Germany,DEU,TIMSS: Eighth grade students who did not reach the low international benchmark of science achievement (%),LO.TIMSS.SCI8.BL,..,..,..,..,..,..,..,..
+Germany,DEU,TIMSS: Eighth grade students who did not reach the low international benchmark of mathematics achievement (%),LO.TIMSS.MAT8.BL,..,..,..,..,..,..,..,..
+India,IND,"Adjusted net enrolment rate, lower secondary, both sexes (%)",UIS.NERA.2,..,..,..,..,74.61496735,..,..,..
+India,IND,"Adjusted net enrolment rate, lower secondary, female (%)",UIS.NERA.2.F,..,..,..,..,76.73175049,..,..,..
+India,IND,"Adjusted net enrolment rate, lower secondary, male (%)",UIS.NERA.2.M,..,..,..,..,72.71611023,..,..,..
+India,IND,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,..,..,59.27732086,..,..,..,62.98471832,..
+India,IND,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,..,..,78.87722778,..,..,..,80.93554688,..
+India,IND,All staff compensation as % of total expenditure in tertiary public institutions (%),UIS.XSPENDP.56.FDPUB.FNS,..,..,..,..,..,..,..,..
+India,IND,All staff compensation as % of total expenditure in secondary public institutions (%),UIS.XSPENDP.23.FDPUB.FNS,..,..,..,..,..,..,..,..
+India,IND,All staff compensation as % of total expenditure in public institutions (%),UIS.XSPENDP.FDPUB.FNS,..,..,..,..,..,..,..,..
+India,IND,All staff compensation as % of total expenditure in primary public institutions (%),UIS.XSPENDP.1.FDPUB.FNS,..,..,..,..,..,..,..,..
+India,IND,All staff compensation as % of total expenditure in pre-primary public institutions (%),UIS.XSPENDP.0.FDPUB.FNS,..,..,..,..,..,..,..,..
+India,IND,"Barro-Lee: Average years of total schooling, age 20-24, total",BAR.SCHL.2024,..,9.02,..,..,..,..,..,..
+India,IND,"Barro-Lee: Average years of total schooling, age 25+, total",BAR.SCHL.25UP,..,5.39,..,..,..,..,..,..
+India,IND,"Barro-Lee: Average years of total schooling, age 25-29, total",BAR.SCHL.2529,..,7.76,..,..,..,..,..,..
+India,IND,"Barro-Lee: Average years of total schooling, age 30-34, total",BAR.SCHL.3034,..,6.99,..,..,..,..,..,..
+India,IND,"Barro-Lee: Average years of total schooling, age 35-39, total",BAR.SCHL.3539,..,5.99,..,..,..,..,..,..
+India,IND,"Barro-Lee: Average years of total schooling, age 40-44, total",BAR.SCHL.4044,..,5.26,..,..,..,..,..,..
+India,IND,"Barro-Lee: Average years of total schooling, age 45-49, total",BAR.SCHL.4549,..,4.69,..,..,..,..,..,..
+India,IND,"Barro-Lee: Average years of total schooling, age 50-54, total",BAR.SCHL.5054,..,4.47,..,..,..,..,..,..
+India,IND,"Barro-Lee: Average years of total schooling, age 55-59, total",BAR.SCHL.5559,..,4.18,..,..,..,..,..,..
+India,IND,"Barro-Lee: Average years of total schooling, age 60-64, total",BAR.SCHL.6064,..,3.74,..,..,..,..,..,..
+India,IND,"Barro-Lee: Average years of total schooling, age 65-69, total",BAR.SCHL.6569,..,3.08,..,..,..,..,..,..
+India,IND,"Barro-Lee: Average years of total schooling, age 70-74, total",BAR.SCHL.7074,..,2.35,..,..,..,..,..,..
+India,IND,"Barro-Lee: Average years of total schooling, age 75+, total",BAR.SCHL.75UP,..,2.07,..,..,..,..,..,..
+India,IND,Barro-Lee: Percentage of population age 15+ with no education,BAR.NOED.15UP.ZS,..,33.16,..,..,..,..,..,..
+India,IND,Barro-Lee: Percentage of population age 15+ with primary schooling. Completed Primary,BAR.PRM.CMPT.15UP.ZS,..,15.19,..,..,..,..,..,..
+India,IND,Barro-Lee: Percentage of population age 15+ with secondary schooling. Completed Secondary,BAR.SEC.CMPT.15UP.ZS,..,25.03,..,..,..,..,..,..
+India,IND,Barro-Lee: Percentage of population age 15+ with tertiary schooling. Completed Tertiary,BAR.TER.CMPT.15UP.ZS,..,4.85,..,..,..,..,..,..
+India,IND,EGRA: Correct Isolated Words Read Per Minute (Mean). English. 3rd Grade,LO.EGRA.CWPM.ENG.3GRD,..,..,..,..,..,..,..,..
+India,IND,EGRA: Correct Isolated Words Read Per Minute (Mean). English. 6th Grade,LO.EGRA.CWPM.ENG.6GRD,..,..,..,..,..,..,..,..
+India,IND,"Enrolment in early childhood education, public institutions, both sexes (number)",UIS.E.0.PU.T,..,..,..,..,1523846,..,..,..
+India,IND,"Enrolment in Grade 1 of lower secondary general education, both sexes (number)",UIS.E.2.GPV.G1.T,19901454,21122736,21959142,..,22226896,..,..,..
+India,IND,"Enrolment in lower secondary education, both sexes (number)",UIS.E.2,55463960,59421000,62056448,63006312,64171856,..,..,..
+India,IND,"Enrolment in post-secondary non-tertiary education, both sexes (number)",UIS.E.4,..,..,..,417793,475969,..,..,..
+India,IND,"Enrolment in primary education, both sexes (number)",SE.PRM.ENRL,138368128,138413840,137746816,139869904,141154752,..,..,..
+India,IND,"Enrolment in tertiary education, all programmes, both sexes (number)",SE.TER.ENRL,18500324,20740740,26650952,28568408,28175136,..,..,..
+India,IND,TIMSS: Eighth grade students who did not reach the low international benchmark of science achievement (%),LO.TIMSS.SCI8.BL,..,..,..,..,..,..,..,..
+India,IND,TIMSS: Eighth grade students who did not reach the low international benchmark of mathematics achievement (%),LO.TIMSS.MAT8.BL,..,..,..,..,..,..,..,..
+China,CHN,"Adjusted net enrolment rate, lower secondary, both sexes (%)",UIS.NERA.2,..,..,..,..,..,..,..,..
+China,CHN,"Adjusted net enrolment rate, lower secondary, female (%)",UIS.NERA.2.F,..,..,..,..,..,..,..,..
+China,CHN,"Adjusted net enrolment rate, lower secondary, male (%)",UIS.NERA.2.M,..,..,..,..,..,..,..,..
+China,CHN,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,..,92.71122742,..,..,..,..,94.47138977,..
+China,CHN,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,..,97.47946167,..,..,..,..,98.164711,..
+China,CHN,All staff compensation as % of total expenditure in tertiary public institutions (%),UIS.XSPENDP.56.FDPUB.FNS,..,..,..,..,..,..,..,..
+China,CHN,All staff compensation as % of total expenditure in secondary public institutions (%),UIS.XSPENDP.23.FDPUB.FNS,..,..,..,..,..,..,..,..
+China,CHN,All staff compensation as % of total expenditure in public institutions (%),UIS.XSPENDP.FDPUB.FNS,..,..,..,..,..,..,..,..
+China,CHN,All staff compensation as % of total expenditure in primary public institutions (%),UIS.XSPENDP.1.FDPUB.FNS,..,..,..,..,..,..,..,..
+China,CHN,All staff compensation as % of total expenditure in pre-primary public institutions (%),UIS.XSPENDP.0.FDPUB.FNS,..,..,..,..,..,..,..,..
+China,CHN,"Barro-Lee: Average years of total schooling, age 20-24, total",BAR.SCHL.2024,..,9.17,..,..,..,..,..,..
+China,CHN,"Barro-Lee: Average years of total schooling, age 25+, total",BAR.SCHL.25UP,..,7.12,..,..,..,..,..,..
+China,CHN,"Barro-Lee: Average years of total schooling, age 25-29, total",BAR.SCHL.2529,..,8.87,..,..,..,..,..,..
+China,CHN,"Barro-Lee: Average years of total schooling, age 30-34, total",BAR.SCHL.3034,..,8.44,..,..,..,..,..,..
+China,CHN,"Barro-Lee: Average years of total schooling, age 35-39, total",BAR.SCHL.3539,..,7.8,..,..,..,..,..,..
+China,CHN,"Barro-Lee: Average years of total schooling, age 40-44, total",BAR.SCHL.4044,..,7.79,..,..,..,..,..,..
+China,CHN,"Barro-Lee: Average years of total schooling, age 45-49, total",BAR.SCHL.4549,..,7.41,..,..,..,..,..,..
+China,CHN,"Barro-Lee: Average years of total schooling, age 50-54, total",BAR.SCHL.5054,..,7.4,..,..,..,..,..,..
+China,CHN,"Barro-Lee: Average years of total schooling, age 55-59, total",BAR.SCHL.5559,..,6.02,..,..,..,..,..,..
+China,CHN,"Barro-Lee: Average years of total schooling, age 60-64, total",BAR.SCHL.6064,..,6.02,..,..,..,..,..,..
+China,CHN,"Barro-Lee: Average years of total schooling, age 65-69, total",BAR.SCHL.6569,..,4.93,..,..,..,..,..,..
+China,CHN,"Barro-Lee: Average years of total schooling, age 70-74, total",BAR.SCHL.7074,..,4.93,..,..,..,..,..,..
+China,CHN,"Barro-Lee: Average years of total schooling, age 75+, total",BAR.SCHL.75UP,..,3.1,..,..,..,..,..,..
+China,CHN,Barro-Lee: Percentage of population age 15+ with no education,BAR.NOED.15UP.ZS,..,5.35,..,..,..,..,..,..
+China,CHN,Barro-Lee: Percentage of population age 15+ with primary schooling. Completed Primary,BAR.PRM.CMPT.15UP.ZS,..,14.81,..,..,..,..,..,..
+China,CHN,Barro-Lee: Percentage of population age 15+ with secondary schooling. Completed Secondary,BAR.SEC.CMPT.15UP.ZS,..,22.85,..,..,..,..,..,..
+China,CHN,Barro-Lee: Percentage of population age 15+ with tertiary schooling. Completed Tertiary,BAR.TER.CMPT.15UP.ZS,..,2.71,..,..,..,..,..,..
+China,CHN,EGRA: Correct Isolated Words Read Per Minute (Mean). English. 3rd Grade,LO.EGRA.CWPM.ENG.3GRD,..,..,..,..,..,..,..,..
+China,CHN,EGRA: Correct Isolated Words Read Per Minute (Mean). English. 6th Grade,LO.EGRA.CWPM.ENG.6GRD,..,..,..,..,..,..,..,..
+China,CHN,"Enrolment in early childhood education, public institutions, both sexes (number)",UIS.E.0.PU.T,14929262,..,15772001,17302366,18330180,19044367,..,..
+China,CHN,"Enrolment in Grade 1 of lower secondary general education, both sexes (number)",UIS.E.2.GPV.G1.T,18646646,17938514,17227734,16395192,15758146,15005164,..,..
+China,CHN,"Enrolment in lower secondary education, both sexes (number)",UIS.E.2,55957328,54524912,52908496,50780076,48361184,44982568,..,..
+China,CHN,"Enrolment in post-secondary non-tertiary education, both sexes (number)",UIS.E.4,225178,205547,182866,145052,657935,1252514,..,..
+China,CHN,"Enrolment in primary education, both sexes (number)",SE.PRM.ENRL,103617064,101018624,99707840,99540480,98870816,95107120,..,..
+China,CHN,"Enrolment in tertiary education, all programmes, both sexes (number)",SE.TER.ENRL,29295840,31046736,31308378,32585960,34091288,41924200,..,..
+China,CHN,TIMSS: Eighth grade students who did not reach the low international benchmark of science achievement (%),LO.TIMSS.SCI8.BL,..,..,..,..,..,..,..,..
+China,CHN,TIMSS: Eighth grade students who did not reach the low international benchmark of mathematics achievement (%),LO.TIMSS.MAT8.BL,..,..,..,..,..,..,..,..
+Middle East & North Africa,MEA,"Adjusted net enrolment rate, lower secondary, both sexes (%)",UIS.NERA.2,..,..,..,..,..,..,..,..
+Middle East & North Africa,MEA,"Adjusted net enrolment rate, lower secondary, female (%)",UIS.NERA.2.F,..,..,..,..,..,..,..,..
+Middle East & North Africa,MEA,"Adjusted net enrolment rate, lower secondary, male (%)",UIS.NERA.2.M,..,..,..,..,..,..,..,..
+Middle East & North Africa,MEA,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,73.68132782,73.68132782,73.68132782,73.68132782,73.68132782,73.68132782,..,..
+Middle East & North Africa,MEA,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,87.2885437,87.2885437,87.2885437,87.2885437,87.2885437,87.2885437,..,..
+Middle East & North Africa,MEA,All staff compensation as % of total expenditure in tertiary public institutions (%),UIS.XSPENDP.56.FDPUB.FNS,..,..,..,..,..,..,..,..
+Middle East & North Africa,MEA,All staff compensation as % of total expenditure in secondary public institutions (%),UIS.XSPENDP.23.FDPUB.FNS,..,..,..,..,..,..,..,..
+Middle East & North Africa,MEA,All staff compensation as % of total expenditure in public institutions (%),UIS.XSPENDP.FDPUB.FNS,..,..,..,..,..,..,..,..
+Middle East & North Africa,MEA,All staff compensation as % of total expenditure in primary public institutions (%),UIS.XSPENDP.1.FDPUB.FNS,..,..,..,..,..,..,..,..
+Middle East & North Africa,MEA,All staff compensation as % of total expenditure in pre-primary public institutions (%),UIS.XSPENDP.0.FDPUB.FNS,..,..,..,..,..,..,..,..
+Middle East & North Africa,MEA,"Barro-Lee: Average years of total schooling, age 20-24, total",BAR.SCHL.2024,..,..,..,..,..,..,..,..
+Middle East & North Africa,MEA,"Barro-Lee: Average years of total schooling, age 25+, total",BAR.SCHL.25UP,..,..,..,..,..,..,..,..
+Middle East & North Africa,MEA,"Barro-Lee: Average years of total schooling, age 25-29, total",BAR.SCHL.2529,..,..,..,..,..,..,..,..
+Middle East & North Africa,MEA,"Barro-Lee: Average years of total schooling, age 30-34, total",BAR.SCHL.3034,..,..,..,..,..,..,..,..
+Middle East & North Africa,MEA,"Barro-Lee: Average years of total schooling, age 35-39, total",BAR.SCHL.3539,..,..,..,..,..,..,..,..
+Middle East & North Africa,MEA,"Barro-Lee: Average years of total schooling, age 40-44, total",BAR.SCHL.4044,..,..,..,..,..,..,..,..
+Middle East & North Africa,MEA,"Barro-Lee: Average years of total schooling, age 45-49, total",BAR.SCHL.4549,..,..,..,..,..,..,..,..
+Middle East & North Africa,MEA,"Barro-Lee: Average years of total schooling, age 50-54, total",BAR.SCHL.5054,..,..,..,..,..,..,..,..
+Middle East & North Africa,MEA,"Barro-Lee: Average years of total schooling, age 55-59, total",BAR.SCHL.5559,..,..,..,..,..,..,..,..
+Middle East & North Africa,MEA,"Barro-Lee: Average years of total schooling, age 60-64, total",BAR.SCHL.6064,..,..,..,..,..,..,..,..
+Middle East & North Africa,MEA,"Barro-Lee: Average years of total schooling, age 65-69, total",BAR.SCHL.6569,..,..,..,..,..,..,..,..
+Middle East & North Africa,MEA,"Barro-Lee: Average years of total schooling, age 70-74, total",BAR.SCHL.7074,..,..,..,..,..,..,..,..
+Middle East & North Africa,MEA,"Barro-Lee: Average years of total schooling, age 75+, total",BAR.SCHL.75UP,..,..,..,..,..,..,..,..
+Middle East & North Africa,MEA,Barro-Lee: Percentage of population age 15+ with no education,BAR.NOED.15UP.ZS,..,..,..,..,..,..,..,..
+Middle East & North Africa,MEA,Barro-Lee: Percentage of population age 15+ with primary schooling. Completed Primary,BAR.PRM.CMPT.15UP.ZS,..,..,..,..,..,..,..,..
+Middle East & North Africa,MEA,Barro-Lee: Percentage of population age 15+ with secondary schooling. Completed Secondary,BAR.SEC.CMPT.15UP.ZS,..,..,..,..,..,..,..,..
+Middle East & North Africa,MEA,Barro-Lee: Percentage of population age 15+ with tertiary schooling. Completed Tertiary,BAR.TER.CMPT.15UP.ZS,..,..,..,..,..,..,..,..
+Middle East & North Africa,MEA,EGRA: Correct Isolated Words Read Per Minute (Mean). English. 3rd Grade,LO.EGRA.CWPM.ENG.3GRD,..,..,..,..,..,..,..,..
+Middle East & North Africa,MEA,EGRA: Correct Isolated Words Read Per Minute (Mean). English. 6th Grade,LO.EGRA.CWPM.ENG.6GRD,..,..,..,..,..,..,..,..
+Middle East & North Africa,MEA,"Enrolment in early childhood education, public institutions, both sexes (number)",UIS.E.0.PU.T,..,..,..,..,..,..,..,..
+Middle East & North Africa,MEA,"Enrolment in Grade 1 of lower secondary general education, both sexes (number)",UIS.E.2.GPV.G1.T,..,..,..,..,..,..,..,..
+Middle East & North Africa,MEA,"Enrolment in lower secondary education, both sexes (number)",UIS.E.2,22223492,22115092,22345542,22362300,20584668,20263448,..,..
+Middle East & North Africa,MEA,"Enrolment in post-secondary non-tertiary education, both sexes (number)",UIS.E.4,1817398.25,1811498.875,1791986.875,1782786.875,1804107.125,1745216.75,..,..
+Middle East & North Africa,MEA,"Enrolment in primary education, both sexes (number)",SE.PRM.ENRL,42596456,43171124,43540068,44809528,46904580,47857856,..,..
+Middle East & North Africa,MEA,"Enrolment in tertiary education, all programmes, both sexes (number)",SE.TER.ENRL,11547454,12312381,12516851,13342759,13751028,14332233,..,..
+Middle East & North Africa,MEA,TIMSS: Eighth grade students who did not reach the low international benchmark of science achievement (%),LO.TIMSS.SCI8.BL,..,..,..,..,..,..,..,..
+Middle East & North Africa,MEA,TIMSS: Eighth grade students who did not reach the low international benchmark of mathematics achievement (%),LO.TIMSS.MAT8.BL,..,..,..,..,..,..,..,..
+South Asia,SAS,"Adjusted net enrolment rate, lower secondary, both sexes (%)",UIS.NERA.2,..,..,..,..,..,..,..,..
+South Asia,SAS,"Adjusted net enrolment rate, lower secondary, female (%)",UIS.NERA.2.F,..,..,..,..,..,..,..,..
+South Asia,SAS,"Adjusted net enrolment rate, lower secondary, male (%)",UIS.NERA.2.M,..,..,..,..,..,..,..,..
+South Asia,SAS,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,57.00413895,57.00413895,57.00413895,57.00413895,57.00413895,57.00413895,..,..
+South Asia,SAS,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,76.02194214,76.02194214,76.02194214,76.02194214,76.02194214,76.02194214,..,..
+South Asia,SAS,All staff compensation as % of total expenditure in tertiary public institutions (%),UIS.XSPENDP.56.FDPUB.FNS,..,..,..,..,..,..,..,..
+South Asia,SAS,All staff compensation as % of total expenditure in secondary public institutions (%),UIS.XSPENDP.23.FDPUB.FNS,..,..,..,..,..,..,..,..
+South Asia,SAS,All staff compensation as % of total expenditure in public institutions (%),UIS.XSPENDP.FDPUB.FNS,..,..,..,..,..,..,..,..
+South Asia,SAS,All staff compensation as % of total expenditure in primary public institutions (%),UIS.XSPENDP.1.FDPUB.FNS,..,..,..,..,..,..,..,..
+South Asia,SAS,All staff compensation as % of total expenditure in pre-primary public institutions (%),UIS.XSPENDP.0.FDPUB.FNS,..,..,..,..,..,..,..,..
+South Asia,SAS,"Barro-Lee: Average years of total schooling, age 20-24, total",BAR.SCHL.2024,..,..,..,..,..,..,..,..
+South Asia,SAS,"Barro-Lee: Average years of total schooling, age 25+, total",BAR.SCHL.25UP,..,..,..,..,..,..,..,..
+South Asia,SAS,"Barro-Lee: Average years of total schooling, age 25-29, total",BAR.SCHL.2529,..,..,..,..,..,..,..,..
+South Asia,SAS,"Barro-Lee: Average years of total schooling, age 30-34, total",BAR.SCHL.3034,..,..,..,..,..,..,..,..
+South Asia,SAS,"Barro-Lee: Average years of total schooling, age 35-39, total",BAR.SCHL.3539,..,..,..,..,..,..,..,..
+South Asia,SAS,"Barro-Lee: Average years of total schooling, age 40-44, total",BAR.SCHL.4044,..,..,..,..,..,..,..,..
+South Asia,SAS,"Barro-Lee: Average years of total schooling, age 45-49, total",BAR.SCHL.4549,..,..,..,..,..,..,..,..
+South Asia,SAS,"Barro-Lee: Average years of total schooling, age 50-54, total",BAR.SCHL.5054,..,..,..,..,..,..,..,..
+South Asia,SAS,"Barro-Lee: Average years of total schooling, age 55-59, total",BAR.SCHL.5559,..,..,..,..,..,..,..,..
+South Asia,SAS,"Barro-Lee: Average years of total schooling, age 60-64, total",BAR.SCHL.6064,..,..,..,..,..,..,..,..
+South Asia,SAS,"Barro-Lee: Average years of total schooling, age 65-69, total",BAR.SCHL.6569,..,..,..,..,..,..,..,..
+South Asia,SAS,"Barro-Lee: Average years of total schooling, age 70-74, total",BAR.SCHL.7074,..,..,..,..,..,..,..,..
+South Asia,SAS,"Barro-Lee: Average years of total schooling, age 75+, total",BAR.SCHL.75UP,..,..,..,..,..,..,..,..
+South Asia,SAS,Barro-Lee: Percentage of population age 15+ with no education,BAR.NOED.15UP.ZS,..,..,..,..,..,..,..,..
+South Asia,SAS,Barro-Lee: Percentage of population age 15+ with primary schooling. Completed Primary,BAR.PRM.CMPT.15UP.ZS,..,..,..,..,..,..,..,..
+South Asia,SAS,Barro-Lee: Percentage of population age 15+ with secondary schooling. Completed Secondary,BAR.SEC.CMPT.15UP.ZS,..,..,..,..,..,..,..,..
+South Asia,SAS,Barro-Lee: Percentage of population age 15+ with tertiary schooling. Completed Tertiary,BAR.TER.CMPT.15UP.ZS,..,..,..,..,..,..,..,..
+South Asia,SAS,EGRA: Correct Isolated Words Read Per Minute (Mean). English. 3rd Grade,LO.EGRA.CWPM.ENG.3GRD,..,..,..,..,..,..,..,..
+South Asia,SAS,EGRA: Correct Isolated Words Read Per Minute (Mean). English. 6th Grade,LO.EGRA.CWPM.ENG.6GRD,..,..,..,..,..,..,..,..
+South Asia,SAS,"Enrolment in early childhood education, public institutions, both sexes (number)",UIS.E.0.PU.T,..,..,..,..,..,..,..,..
+South Asia,SAS,"Enrolment in Grade 1 of lower secondary general education, both sexes (number)",UIS.E.2.GPV.G1.T,..,..,..,..,..,..,..,..
+South Asia,SAS,"Enrolment in lower secondary education, both sexes (number)",UIS.E.2,71114688,75737232,78765744,80637120,82629568,83341032,..,..
+South Asia,SAS,"Enrolment in post-secondary non-tertiary education, both sexes (number)",UIS.E.4,912580.875,869601.5,799326.25,750307.8125,869463.0625,900454.375,..,..
+South Asia,SAS,"Enrolment in primary education, both sexes (number)",SE.PRM.ENRL,184876320,186210608,186360480,188756144,189926448,191118304,..,..
+South Asia,SAS,"Enrolment in tertiary education, all programmes, both sexes (number)",SE.TER.ENRL,21954234,24678302,30969214,33283530,33133510,33412020,..,..
+South Asia,SAS,TIMSS: Eighth grade students who did not reach the low international benchmark of science achievement (%),LO.TIMSS.SCI8.BL,..,..,..,..,..,..,..,..
+South Asia,SAS,TIMSS: Eighth grade students who did not reach the low international benchmark of mathematics achievement (%),LO.TIMSS.MAT8.BL,..,..,..,..,..,..,..,..
+United States,USA,"Adjusted net enrolment rate, lower secondary, both sexes (%)",UIS.NERA.2,87.36688995,86.63551331,87.674263,88.24369812,88.30420685,88.21276855,..,..
+United States,USA,"Adjusted net enrolment rate, lower secondary, female (%)",UIS.NERA.2.F,88.79216003,89.00514221,88.92819977,90.2633667,89.48065186,90.38191986,..,..
+United States,USA,"Adjusted net enrolment rate, lower secondary, male (%)",UIS.NERA.2.M,86.01821136,84.39292908,86.48690033,86.32713318,87.18554688,86.14589691,..,..
+United States,USA,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,..,..,..,..,..,..,..,..
+United States,USA,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,..,..,..,..,..,..,..,..
+United States,USA,All staff compensation as % of total expenditure in tertiary public institutions (%),UIS.XSPENDP.56.FDPUB.FNS,56.45560837,59.3862114,58.74393082,..,..,..,..,..
+United States,USA,All staff compensation as % of total expenditure in secondary public institutions (%),UIS.XSPENDP.23.FDPUB.FNS,72.16590118,73.61617279,74.11875153,74.20365143,..,..,..,..
+United States,USA,All staff compensation as % of total expenditure in public institutions (%),UIS.XSPENDP.FDPUB.FNS,66.94474792,69.40447235,69.39163971,..,..,..,..,..
+United States,USA,All staff compensation as % of total expenditure in primary public institutions (%),UIS.XSPENDP.1.FDPUB.FNS,72.16590118,73.61617279,74.11875153,74.20365143,..,..,..,..
+United States,USA,All staff compensation as % of total expenditure in pre-primary public institutions (%),UIS.XSPENDP.0.FDPUB.FNS,72.16590118,73.61617279,74.11875153,74.20365143,..,..,..,..
+United States,USA,"Barro-Lee: Average years of total schooling, age 20-24, total",BAR.SCHL.2024,..,13.42,..,..,..,..,..,..
+United States,USA,"Barro-Lee: Average years of total schooling, age 25+, total",BAR.SCHL.25UP,..,13.42,..,..,..,..,..,..
+United States,USA,"Barro-Lee: Average years of total schooling, age 25-29, total",BAR.SCHL.2529,..,13.73,..,..,..,..,..,..
+United States,USA,"Barro-Lee: Average years of total schooling, age 30-34, total",BAR.SCHL.3034,..,13.67,..,..,..,..,..,..
+United States,USA,"Barro-Lee: Average years of total schooling, age 35-39, total",BAR.SCHL.3539,..,13.65,..,..,..,..,..,..
+United States,USA,"Barro-Lee: Average years of total schooling, age 40-44, total",BAR.SCHL.4044,..,13.62,..,..,..,..,..,..
+United States,USA,"Barro-Lee: Average years of total schooling, age 45-49, total",BAR.SCHL.4549,..,13.49,..,..,..,..,..,..
+United States,USA,"Barro-Lee: Average years of total schooling, age 50-54, total",BAR.SCHL.5054,..,13.43,..,..,..,..,..,..
+United States,USA,"Barro-Lee: Average years of total schooling, age 55-59, total",BAR.SCHL.5559,..,13.5,..,..,..,..,..,..
+United States,USA,"Barro-Lee: Average years of total schooling, age 60-64, total",BAR.SCHL.6064,..,13.53,..,..,..,..,..,..
+United States,USA,"Barro-Lee: Average years of total schooling, age 65-69, total",BAR.SCHL.6569,..,13.29,..,..,..,..,..,..
+United States,USA,"Barro-Lee: Average years of total schooling, age 70-74, total",BAR.SCHL.7074,..,12.83,..,..,..,..,..,..
+United States,USA,"Barro-Lee: Average years of total schooling, age 75+, total",BAR.SCHL.75UP,..,12.49,..,..,..,..,..,..
+United States,USA,Barro-Lee: Percentage of population age 15+ with no education,BAR.NOED.15UP.ZS,..,0.35,..,..,..,..,..,..
+United States,USA,Barro-Lee: Percentage of population age 15+ with primary schooling. Completed Primary,BAR.PRM.CMPT.15UP.ZS,..,2.03,..,..,..,..,..,..
+United States,USA,Barro-Lee: Percentage of population age 15+ with secondary schooling. Completed Secondary,BAR.SEC.CMPT.15UP.ZS,..,36.19,..,..,..,..,..,..
+United States,USA,Barro-Lee: Percentage of population age 15+ with tertiary schooling. Completed Tertiary,BAR.TER.CMPT.15UP.ZS,..,26.76,..,..,..,..,..,..
+United States,USA,EGRA: Correct Isolated Words Read Per Minute (Mean). English. 3rd Grade,LO.EGRA.CWPM.ENG.3GRD,..,..,..,..,..,..,..,..
+United States,USA,EGRA: Correct Isolated Words Read Per Minute (Mean). English. 6th Grade,LO.EGRA.CWPM.ENG.6GRD,..,..,..,..,..,..,..,..
+United States,USA,"Enrolment in early childhood education, public institutions, both sexes (number)",UIS.E.0.PU.T,4743002,..,4971781,5219744,5103537.206,5174488,..,..
+United States,USA,"Enrolment in Grade 1 of lower secondary general education, both sexes (number)",UIS.E.2.GPV.G1.T,4087139,4012716,4034780,4044743,4086913.25,4085972,..,..
+United States,USA,"Enrolment in lower secondary education, both sexes (number)",UIS.E.2,12733501,12491507,12404923,12374174,12449044,12493462,..,..
+United States,USA,"Enrolment in post-secondary non-tertiary education, both sexes (number)",UIS.E.4,471581,539115,571998,563146,1174431.625,1147566,..,..
+United States,USA,"Enrolment in primary education, both sexes (number)",SE.PRM.ENRL,24586434,24393002,24431662,24381924,24417652,24538372,..,..
+United States,USA,"Enrolment in tertiary education, all programmes, both sexes (number)",SE.TER.ENRL,19102814,20427708,21016126,20994112,19972624,19700220,..,..
+United States,USA,TIMSS: Eighth grade students who did not reach the low international benchmark of science achievement (%),LO.TIMSS.SCI8.BL,..,..,7.306791757,..,..,..,1,..
+United States,USA,TIMSS: Eighth grade students who did not reach the low international benchmark of mathematics achievement (%),LO.TIMSS.MAT8.BL,..,..,8.125829853,..,..,..,4,..
+Kenya,KEN,"Adjusted net enrolment rate, lower secondary, both sexes (%)",UIS.NERA.2,32.26837921,..,..,34.1982193,..,..,..,..
+Kenya,KEN,"Adjusted net enrolment rate, lower secondary, female (%)",UIS.NERA.2.F,32.71176147,..,..,35.22246933,..,..,..,..
+Kenya,KEN,"Adjusted net enrolment rate, lower secondary, male (%)",UIS.NERA.2.M,31.82934952,..,..,33.18423843,..,..,..,..
+Kenya,KEN,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,..,..,..,..,..,..,74.969841,..
+Kenya,KEN,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,..,..,..,..,..,..,81.11036682,..
+Kenya,KEN,All staff compensation as % of total expenditure in tertiary public institutions (%),UIS.XSPENDP.56.FDPUB.FNS,..,..,..,..,..,..,..,..
+Kenya,KEN,All staff compensation as % of total expenditure in secondary public institutions (%),UIS.XSPENDP.23.FDPUB.FNS,..,..,..,..,..,..,..,..
+Kenya,KEN,All staff compensation as % of total expenditure in public institutions (%),UIS.XSPENDP.FDPUB.FNS,..,..,..,..,..,..,..,..
+Kenya,KEN,All staff compensation as % of total expenditure in primary public institutions (%),UIS.XSPENDP.1.FDPUB.FNS,..,..,..,..,..,..,..,..
+Kenya,KEN,All staff compensation as % of total expenditure in pre-primary public institutions (%),UIS.XSPENDP.0.FDPUB.FNS,..,..,..,..,..,..,..,..
+Kenya,KEN,"Barro-Lee: Average years of total schooling, age 20-24, total",BAR.SCHL.2024,..,7.63,..,..,..,..,..,..
+Kenya,KEN,"Barro-Lee: Average years of total schooling, age 25+, total",BAR.SCHL.25UP,..,6.19,..,..,..,..,..,..
+Kenya,KEN,"Barro-Lee: Average years of total schooling, age 25-29, total",BAR.SCHL.2529,..,7.71,..,..,..,..,..,..
+Kenya,KEN,"Barro-Lee: Average years of total schooling, age 30-34, total",BAR.SCHL.3034,..,7.65,..,..,..,..,..,..
+Kenya,KEN,"Barro-Lee: Average years of total schooling, age 35-39, total",BAR.SCHL.3539,..,7.62,..,..,..,..,..,..
+Kenya,KEN,"Barro-Lee: Average years of total schooling, age 40-44, total",BAR.SCHL.4044,..,7.62,..,..,..,..,..,..
+Kenya,KEN,"Barro-Lee: Average years of total schooling, age 45-49, total",BAR.SCHL.4549,..,5.95,..,..,..,..,..,..
+Kenya,KEN,"Barro-Lee: Average years of total schooling, age 50-54, total",BAR.SCHL.5054,..,5.95,..,..,..,..,..,..
+Kenya,KEN,"Barro-Lee: Average years of total schooling, age 55-59, total",BAR.SCHL.5559,..,1.76,..,..,..,..,..,..
+Kenya,KEN,"Barro-Lee: Average years of total schooling, age 60-64, total",BAR.SCHL.6064,..,1.76,..,..,..,..,..,..
+Kenya,KEN,"Barro-Lee: Average years of total schooling, age 65-69, total",BAR.SCHL.6569,..,1.7,..,..,..,..,..,..
+Kenya,KEN,"Barro-Lee: Average years of total schooling, age 70-74, total",BAR.SCHL.7074,..,1.7,..,..,..,..,..,..
+Kenya,KEN,"Barro-Lee: Average years of total schooling, age 75+, total",BAR.SCHL.75UP,..,1.7,..,..,..,..,..,..
+Kenya,KEN,Barro-Lee: Percentage of population age 15+ with no education,BAR.NOED.15UP.ZS,..,19.68,..,..,..,..,..,..
+Kenya,KEN,Barro-Lee: Percentage of population age 15+ with primary schooling. Completed Primary,BAR.PRM.CMPT.15UP.ZS,..,21.95,..,..,..,..,..,..
+Kenya,KEN,Barro-Lee: Percentage of population age 15+ with secondary schooling. Completed Secondary,BAR.SEC.CMPT.15UP.ZS,..,13.3,..,..,..,..,..,..
+Kenya,KEN,Barro-Lee: Percentage of population age 15+ with tertiary schooling. Completed Tertiary,BAR.TER.CMPT.15UP.ZS,..,3.4,..,..,..,..,..,..
+Kenya,KEN,EGRA: Correct Isolated Words Read Per Minute (Mean). English. 3rd Grade,LO.EGRA.CWPM.ENG.3GRD,..,..,..,..,..,..,..,..
+Kenya,KEN,EGRA: Correct Isolated Words Read Per Minute (Mean). English. 6th Grade,LO.EGRA.CWPM.ENG.6GRD,..,..,..,..,..,..,..,..
+Kenya,KEN,"Enrolment in early childhood education, public institutions, both sexes (number)",UIS.E.0.PU.T,1192316,..,..,..,..,2068660,..,..
+Kenya,KEN,"Enrolment in Grade 1 of lower secondary general education, both sexes (number)",UIS.E.2.GPV.G1.T,954023,..,..,1105806,..,1199149,..,..
+Kenya,KEN,"Enrolment in lower secondary education, both sexes (number)",UIS.E.2,1681161,..,..,1917739,..,2093208,..,..
+Kenya,KEN,"Enrolment in post-secondary non-tertiary education, both sexes (number)",UIS.E.4,75166,..,..,158420,..,..,..,..
+Kenya,KEN,"Enrolment in primary education, both sexes (number)",SE.PRM.ENRL,7150259,..,..,8053125,..,8158000,..,..
+Kenya,KEN,"Enrolment in tertiary education, all programmes, both sexes (number)",SE.TER.ENRL,167983,..,..,..,..,..,..,..
+Kenya,KEN,TIMSS: Eighth grade students who did not reach the low international benchmark of science achievement (%),LO.TIMSS.SCI8.BL,..,..,..,..,..,..,..,..
+Kenya,KEN,TIMSS: Eighth grade students who did not reach the low international benchmark of mathematics achievement (%),LO.TIMSS.MAT8.BL,..,..,..,..,..,..,..,..
+Mozambique,MOZ,"Adjusted net enrolment rate, lower secondary, both sexes (%)",UIS.NERA.2,10.91833019,12.06243038,13.43303967,14.35029984,15.39138031,16.12078094,..,..
+Mozambique,MOZ,"Adjusted net enrolment rate, lower secondary, female (%)",UIS.NERA.2.F,10.82777023,12.14595985,13.75623035,14.8164196,16.00687981,16.95129967,..,..
+Mozambique,MOZ,"Adjusted net enrolment rate, lower secondary, male (%)",UIS.NERA.2.M,11.00924015,11.97867012,13.10900021,13.88321018,14.77503014,15.28979015,..,..
+Mozambique,MOZ,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,36.45227814,..,..,..,..,..,45.52547073,..
+Mozambique,MOZ,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,67.35469818,..,..,..,..,..,73.4274292,..
+Mozambique,MOZ,All staff compensation as % of total expenditure in tertiary public institutions (%),UIS.XSPENDP.56.FDPUB.FNS,..,..,..,58.54827118,58.54827118,..,..,..
+Mozambique,MOZ,All staff compensation as % of total expenditure in secondary public institutions (%),UIS.XSPENDP.23.FDPUB.FNS,..,..,..,58.54827118,58.54827118,..,..,..
+Mozambique,MOZ,All staff compensation as % of total expenditure in public institutions (%),UIS.XSPENDP.FDPUB.FNS,..,..,..,58.54827118,58.54827118,..,..,..
+Mozambique,MOZ,All staff compensation as % of total expenditure in primary public institutions (%),UIS.XSPENDP.1.FDPUB.FNS,..,..,..,58.54827118,58.54827118,..,..,..
+Mozambique,MOZ,All staff compensation as % of total expenditure in pre-primary public institutions (%),UIS.XSPENDP.0.FDPUB.FNS,..,..,..,..,..,..,..,..
+Mozambique,MOZ,"Barro-Lee: Average years of total schooling, age 20-24, total",BAR.SCHL.2024,..,2.26,..,..,..,..,..,..
+Mozambique,MOZ,"Barro-Lee: Average years of total schooling, age 25+, total",BAR.SCHL.25UP,..,1.24,..,..,..,..,..,..
+Mozambique,MOZ,"Barro-Lee: Average years of total schooling, age 25-29, total",BAR.SCHL.2529,..,1.66,..,..,..,..,..,..
+Mozambique,MOZ,"Barro-Lee: Average years of total schooling, age 30-34, total",BAR.SCHL.3034,..,1.79,..,..,..,..,..,..
+Mozambique,MOZ,"Barro-Lee: Average years of total schooling, age 35-39, total",BAR.SCHL.3539,..,1.19,..,..,..,..,..,..
+Mozambique,MOZ,"Barro-Lee: Average years of total schooling, age 40-44, total",BAR.SCHL.4044,..,1.2,..,..,..,..,..,..
+Mozambique,MOZ,"Barro-Lee: Average years of total schooling, age 45-49, total",BAR.SCHL.4549,..,1.18,..,..,..,..,..,..
+Mozambique,MOZ,"Barro-Lee: Average years of total schooling, age 50-54, total",BAR.SCHL.5054,..,0.93,..,..,..,..,..,..
+Mozambique,MOZ,"Barro-Lee: Average years of total schooling, age 55-59, total",BAR.SCHL.5559,..,0.91,..,..,..,..,..,..
+Mozambique,MOZ,"Barro-Lee: Average years of total schooling, age 60-64, total",BAR.SCHL.6064,..,0.49,..,..,..,..,..,..
+Mozambique,MOZ,"Barro-Lee: Average years of total schooling, age 65-69, total",BAR.SCHL.6569,..,0.48,..,..,..,..,..,..
+Mozambique,MOZ,"Barro-Lee: Average years of total schooling, age 70-74, total",BAR.SCHL.7074,..,0.34,..,..,..,..,..,..
+Mozambique,MOZ,"Barro-Lee: Average years of total schooling, age 75+, total",BAR.SCHL.75UP,..,0.23,..,..,..,..,..,..
+Mozambique,MOZ,Barro-Lee: Percentage of population age 15+ with no education,BAR.NOED.15UP.ZS,..,68.14,..,..,..,..,..,..
+Mozambique,MOZ,Barro-Lee: Percentage of population age 15+ with primary schooling. Completed Primary,BAR.PRM.CMPT.15UP.ZS,..,16.47,..,..,..,..,..,..
+Mozambique,MOZ,Barro-Lee: Percentage of population age 15+ with secondary schooling. Completed Secondary,BAR.SEC.CMPT.15UP.ZS,..,3.38,..,..,..,..,..,..
+Mozambique,MOZ,Barro-Lee: Percentage of population age 15+ with tertiary schooling. Completed Tertiary,BAR.TER.CMPT.15UP.ZS,..,0.26,..,..,..,..,..,..
+Mozambique,MOZ,EGRA: Correct Isolated Words Read Per Minute (Mean). English. 3rd Grade,LO.EGRA.CWPM.ENG.3GRD,..,..,..,..,..,..,..,..
+Mozambique,MOZ,EGRA: Correct Isolated Words Read Per Minute (Mean). English. 6th Grade,LO.EGRA.CWPM.ENG.6GRD,..,..,..,..,..,..,..,..
+Mozambique,MOZ,"Enrolment in early childhood education, public institutions, both sexes (number)",UIS.E.0.PU.T,..,..,..,..,..,..,..,..
+Mozambique,MOZ,"Enrolment in Grade 1 of lower secondary general education, both sexes (number)",UIS.E.2.GPV.G1.T,204703,219024,232542,222558,235956,234420,..,..
+Mozambique,MOZ,"Enrolment in lower secondary education, both sexes (number)",UIS.E.2,504867,556080,590641,595571,617367,620253,..,..
+Mozambique,MOZ,"Enrolment in post-secondary non-tertiary education, both sexes (number)",UIS.E.4,..,..,..,..,..,..,..,..
+Mozambique,MOZ,"Enrolment in primary education, both sexes (number)",SE.PRM.ENRL,5071878,5277868,5253670,5359019,5526494,5669591,..,..
+Mozambique,MOZ,"Enrolment in tertiary education, all programmes, both sexes (number)",SE.TER.ENRL,84074,103850,113464,123779,128073,157431,..,..
+Mozambique,MOZ,TIMSS: Eighth grade students who did not reach the low international benchmark of science achievement (%),LO.TIMSS.SCI8.BL,..,..,..,..,..,..,..,..
+Mozambique,MOZ,TIMSS: Eighth grade students who did not reach the low international benchmark of mathematics achievement (%),LO.TIMSS.MAT8.BL,..,..,..,..,..,..,..,..
+Swaziland,SWZ,"Adjusted net enrolment rate, lower secondary, both sexes (%)",UIS.NERA.2,22.39185905,22.28113937,23.74082947,23.97139931,24.37347984,..,..,..
+Swaziland,SWZ,"Adjusted net enrolment rate, lower secondary, female (%)",UIS.NERA.2.F,26.82986069,27.0194397,26.31261063,27.64723015,28.68503952,..,..,..
+Swaziland,SWZ,"Adjusted net enrolment rate, lower secondary, male (%)",UIS.NERA.2.M,18.02219963,17.60897064,21.19972992,20.33455086,20.10527039,..,..,..
+Swaziland,SWZ,"Adult literacy rate, population 15+ years, female (%)",SE.ADT.LITR.FE.ZS,..,82.44754791,..,..,..,..,87.49803925,..
+Swaziland,SWZ,"Adult literacy rate, population 15+ years, male (%)",SE.ADT.LITR.MA.ZS,..,83.90014648,..,..,..,..,87.44111633,..
+Swaziland,SWZ,All staff compensation as % of total expenditure in tertiary public institutions (%),UIS.XSPENDP.56.FDPUB.FNS,..,..,..,..,..,..,..,..
+Swaziland,SWZ,All staff compensation as % of total expenditure in secondary public institutions (%),UIS.XSPENDP.23.FDPUB.FNS,..,..,..,..,..,..,..,..
+Swaziland,SWZ,All staff compensation as % of total expenditure in public institutions (%),UIS.XSPENDP.FDPUB.FNS,..,..,..,..,..,..,..,..
+Swaziland,SWZ,All staff compensation as % of total expenditure in primary public institutions (%),UIS.XSPENDP.1.FDPUB.FNS,..,..,..,..,..,..,..,..
+Swaziland,SWZ,All staff compensation as % of total expenditure in pre-primary public institutions (%),UIS.XSPENDP.0.FDPUB.FNS,..,..,..,..,..,..,..,..
+Swaziland,SWZ,"Barro-Lee: Average years of total schooling, age 20-24, total",BAR.SCHL.2024,..,6.7,..,..,..,..,..,..
+Swaziland,SWZ,"Barro-Lee: Average years of total schooling, age 25+, total",BAR.SCHL.25UP,..,4.02,..,..,..,..,..,..
+Swaziland,SWZ,"Barro-Lee: Average years of total schooling, age 25-29, total",BAR.SCHL.2529,..,6.55,..,..,..,..,..,..
+Swaziland,SWZ,"Barro-Lee: Average years of total schooling, age 30-34, total",BAR.SCHL.3034,..,3.87,..,..,..,..,..,..
+Swaziland,SWZ,"Barro-Lee: Average years of total schooling, age 35-39, total",BAR.SCHL.3539,..,3.9,..,..,..,..,..,..
+Swaziland,SWZ,"Barro-Lee: Average years of total schooling, age 40-44, total",BAR.SCHL.4044,..,3.63,..,..,..,..,..,..
+Swaziland,SWZ,"Barro-Lee: Average years of total schooling, age 45-49, total",BAR.SCHL.4549,..,3.16,..,..,..,..,..,..
+Swaziland,SWZ,"Barro-Lee: Average years of total schooling, age 50-54, total",BAR.SCHL.5054,..,2.98,..,..,..,..,..,..
+Swaziland,SWZ,"Barro-Lee: Average years of total schooling, age 55-59, total",BAR.SCHL.5559,..,2.74,..,..,..,..,..,..
+Swaziland,SWZ,"Barro-Lee: Average years of total schooling, age 60-64, total",BAR.SCHL.6064,..,2.11,..,..,..,..,..,..
+Swaziland,SWZ,"Barro-Lee: Average years of total schooling, age 65-69, total",BAR.SCHL.6569,..,1.5,..,..,..,..,..,..
+Swaziland,SWZ,"Barro-Lee: Average years of total schooling, age 70-74, total",BAR.SCHL.7074,..,1.32,..,..,..,..,..,..
+Swaziland,SWZ,"Barro-Lee: Average years of total schooling, age 75+, total",BAR.SCHL.75UP,..,1.05,..,..,..,..,..,..
+Swaziland,SWZ,Barro-Lee: Percentage of population age 15+ with no education,BAR.NOED.15UP.ZS,..,32.94,..,..,..,..,..,..
+Swaziland,SWZ,Barro-Lee: Percentage of population age 15+ with primary schooling. Completed Primary,BAR.PRM.CMPT.15UP.ZS,..,13.16,..,..,..,..,..,..
+Swaziland,SWZ,Barro-Lee: Percentage of population age 15+ with secondary schooling. Completed Secondary,BAR.SEC.CMPT.15UP.ZS,..,5.4,..,..,..,..,..,..
+Swaziland,SWZ,Barro-Lee: Percentage of population age 15+ with tertiary schooling. Completed Tertiary,BAR.TER.CMPT.15UP.ZS,..,1.64,..,..,..,..,..,..
+Swaziland,SWZ,EGRA: Correct Isolated Words Read Per Minute (Mean). English. 3rd Grade,LO.EGRA.CWPM.ENG.3GRD,..,..,..,..,..,..,..,..
+Swaziland,SWZ,EGRA: Correct Isolated Words Read Per Minute (Mean). English. 6th Grade,LO.EGRA.CWPM.ENG.6GRD,..,..,..,..,..,..,..,..
+Swaziland,SWZ,"Enrolment in early childhood education, public institutions, both sexes (number)",UIS.E.0.PU.T,..,..,..,..,..,..,..,..
+Swaziland,SWZ,"Enrolment in Grade 1 of lower secondary general education, both sexes (number)",UIS.E.2.GPV.G1.T,22029,23765,24673,24976,25593,..,..,..
+Swaziland,SWZ,"Enrolment in lower secondary education, both sexes (number)",UIS.E.2,57110,60960,61672,61871,64211,..,..,..
+Swaziland,SWZ,"Enrolment in post-secondary non-tertiary education, both sexes (number)",UIS.E.4,..,..,368,1695,187,..,..,..
+Swaziland,SWZ,"Enrolment in primary education, both sexes (number)",SE.PRM.ENRL,231349,241237,239721,239422,239019,..,..,..
+Swaziland,SWZ,"Enrolment in tertiary education, all programmes, both sexes (number)",SE.TER.ENRL,..,..,8904,..,8057,..,..,..
+Swaziland,SWZ,TIMSS: Eighth grade students who did not reach the low international benchmark of science achievement (%),LO.TIMSS.SCI8.BL,..,..,..,..,..,..,..,..
+Swaziland,SWZ,TIMSS: Eighth grade students who did not reach the low international benchmark of mathematics achievement (%),LO.TIMSS.MAT8.BL,..,..,..,..,..,..,..,..
